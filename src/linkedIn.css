@@ -85,10 +85,10 @@
   float: left;
 }
 
-#pic-container {
+/*#pic-container {
   background-image: url(https://cdn.shutterstock.com/shutterstock/videos/9346742/thumb/5.jpg);
   background-repeat: no-repeat, repeat;
-}
+}*/
 
 .create {
   position: relative;
