@@ -1,0 +1,23 @@
+{
+  "name": "htmlproject",
+  "version": "1.0.0",
+  "description": "Design a simple user interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnchuks/Andela-bootcamp-day3.git"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "Johnbosco Ohia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnchuks/Andela-bootcamp-day3/issues"
+  },
+  "homepage": "https://github.com/johnchuks/Andela-bootcamp-day3#readme"
+}
